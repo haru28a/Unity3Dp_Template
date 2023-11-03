@@ -1,2 +1,2 @@
 # Unity3Dp_Template
-Template
+Unity3D雛形プロジェクトです。
